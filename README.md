@@ -1,4 +1,7 @@
 # Charles W. Kinslow IV, J.D., C.P.A.
+
+[![ORCID iD](https://img.shields.io/badge/ORCID-0009-0002-8851-7890-green.svg)](https://orcid.org/0009-0002-8851-7890) | [Verified ORCID Record](https://orcid.org/0009-0002-8851-7890)
+
 **Regulatory Compliance, GRC Analyst, and Operations Auditor**  
 *Monroe, Louisiana, United States* | [LinkedIn Profile](https://www.linkedin.com/in/chasekn/)
 
